@@ -1,0 +1,17 @@
+body
+{
+	background-image:url("pattt.jpg");
+	background-repeat:repeat;
+	background-attachment:fixed;
+}
+h1
+{
+	color:maroon;
+	margin-left:300px;
+}
+p
+{
+	color:indianred;
+	margin-left:10px;
+}
+	
