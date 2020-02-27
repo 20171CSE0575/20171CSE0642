@@ -14,4 +14,32 @@ p
 	color:indianred;
 	margin-left:10px;
 }
-	
+p.normal{font-family:serif;font-style:italic;font-weight:bold;}
+p.special{font-size:20px;font-weight:bold;direction:rtl;letter-spacing:5px;word-spacing:5px;text-indent:1cm;color:blue;text-align:center;text-decoration:overline;text-transform:capitalize;text-shadow:4px 4px 8px black;}
+
+img:hover{border:5px double black;height:170px;opacity:0.4;filter:alpha(opacity=40);}
+#id1{
+		color:blue;
+		text-transform:capitalize;
+}
+
+p.one{ border-style:double;
+	border-width:10px 20px 15px 15px;
+	border-color:brown chocolate brown coral;}
+
+p.two{border-top-style:solid;
+	border-left-style:solid;
+	border-right-style:double;
+	border-bottom-style:double;
+margin: 25px 50px 75px 100px;
+}
+
+p.three{margin: 25px 50px 75px 100px;}
+
+div{
+	width:300px;
+	margin:auto;
+	border:1px solid lightcoral;
+	text-align:center;
+	background-color:darkcoral;	
+}
